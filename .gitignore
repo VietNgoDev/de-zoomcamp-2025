@@ -13,4 +13,4 @@
 */ny_taxi_postgres_data/*
 *.gz
 *.exe
-*.csv
+/01-docker-terraform/*.csv
