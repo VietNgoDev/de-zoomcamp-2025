@@ -5,10 +5,12 @@
 **.terraform.lock.*
 **google_credentials.json
 **logs/
+**target/
 **.env
 **__pycache__/
 .history
 .ipynb_checkpoints/
 */ny_taxi_postgres_data/*
 *.gz
+*.exe
 *.csv
