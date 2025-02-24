@@ -14,3 +14,6 @@
 *.gz
 *.exe
 /01-docker-terraform/*.csv
+/05-batch/trips
+/05-batch/*.csv
+/05-batch/*.parquet
